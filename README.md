@@ -1,5 +1,6 @@
-<h1 align="left">Omar Mahrous</h1>
-<h3 align="left">AI/ML Engineer — Computer Vision & Production ML Systems</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1A1A2E,100:16213E&text=Omar%20Mahrous&fontColor=FFFFFF&fontSize=42&fontAlignY=35&desc=AI%2FML%20Engineer%20%E2%80%94%20Computer%20Vision%20%26%20Production%20ML%20Systems&descAlignY=60&descSize=17&animation=fadeIn" width="100%" alt="Header banner" />
+</div>
 
 <p align="left">
 Final-year AI Engineering student building deployed, end-to-end ML systems — from model training to containerized, CI/CD-driven production. Currently expanding into Generative AI and RAG.
@@ -113,7 +114,10 @@ Classification pipeline with preprocessing, feature engineering, and SMOTE-based
 
 ### GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=omar-mahrous-am&show_icons=true&theme=default&hide_border=true&count_private=false" width="450" alt="GitHub Stats" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=omar-mahrous-am&show_icons=true&theme=default&hide_border=true&count_private=false" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-mahrous-am&layout=compact&hide_border=true&theme=default" height="165" alt="Top Languages" />
+</p>
 
 <!-- NOTE: Confirm omar-mahrous-am is your actual GitHub username — update if not. -->
 
