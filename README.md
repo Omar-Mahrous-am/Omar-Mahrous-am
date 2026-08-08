@@ -11,8 +11,6 @@ Final-year AI Engineering student building deployed, end-to-end ML systems — f
 <a href="https://omar-mahrous-am.github.io/omar_mahrous/"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
 </p>
 
-
-
 ---
 
 ### About
@@ -56,28 +54,51 @@ Classification pipeline with preprocessing, feature engineering, and SMOTE-based
 ### Technical Skills
 
 **Languages**
-`Python` `SQL`
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 **Machine Learning**
-`End-to-End ML Pipelines` `Supervised & Unsupervised Learning` `Feature Engineering` `Model Evaluation`
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+`End-to-End ML Pipelines` `Feature Engineering` `Model Evaluation` `Supervised & Unsupervised Learning`
 
 **Deep Learning**
-`PyTorch` `CNNs` `RNNs` `Transfer Learning` `Transformers`
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+`CNNs` `RNNs` `Transfer Learning` `Transformers`
 
 **Computer Vision / NLP**
+
+![YOLO](https://img.shields.io/badge/YOLOv8-111F68?style=flat-square&logo=yolo&logoColor=white)
 `Object Detection` `Image Classification` `NLP Fundamentals`
 
 **Generative AI**
+
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 `LLM Fundamentals` `RAG Systems`
 
 **MLOps & Deployment**
-`FastAPI` `Docker` `CI/CD (GitHub Actions, CircleCI)` `Model Serving` `Linux`
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=flat-square&logo=circleci&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+`Model Serving`
 
 **Data & BI**
-`Pandas` `NumPy` `Matplotlib` `Seaborn` `Power BI (DAX, Power Query)` `Hugging Face`
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+`Seaborn`
 
 **Cloud**
-`AWS (S3, IAM, EC2)`
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
 ---
 
@@ -92,12 +113,12 @@ Classification pipeline with preprocessing, feature engineering, and SMOTE-based
 
 ### GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=false" width="450" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=omar-mahrous-am&show_icons=true&theme=default&hide_border=true&count_private=false" width="450" alt="GitHub Stats" />
 
-<!-- NOTE: Replace YOUR_GITHUB_USERNAME with your actual GitHub username. -->
+<!-- NOTE: Confirm omar-mahrous-am is your actual GitHub username — update if not. -->
 
 ---
 
 <p align="left">
-📫 <a href="mailto:omer.mohamed.mahrous@gmail.com">omer.mohamed.mahrous@gmail.com</a> · <a href="LINKEDIN_URL_HERE">LinkedIn</a> · <a href="PORTFOLIO_URL_HERE">Portfolio</a>
+📫 <a href="mailto:omer.mohamed.mahrous@gmail.com">omer.mohamed.mahrous@gmail.com</a> · <a href="https://www.linkedin.com/in/omar-mahrous-787b76305/">LinkedIn</a> · <a href="https://omar-mahrous-am.github.io/omar_mahrous/">Portfolio</a>
 </p>
