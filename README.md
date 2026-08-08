@@ -1,7 +1,5 @@
 <div align="center">
 
-# Omar Mahrous
-
 ### AI/ML Engineer — Computer Vision & Production ML Systems
 
 Final-year AI Engineering student building deployed, end-to-end ML systems — from model training to containerized, CI/CD-driven production. Currently expanding into Generative AI and RAG.
